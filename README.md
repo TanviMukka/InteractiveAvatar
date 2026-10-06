@@ -2,7 +2,7 @@
 An interactive avatar built with p5.js which blinks and smiles when you click on it
 
 ### Live Demo
-[View Live Project](https://tanvimukka.github.io/interactiveavatar/)
+[View Live Project](https://tanvimukka.github.io/InteractiveAvatar/)
 
 ### Built With
 * HTML5
